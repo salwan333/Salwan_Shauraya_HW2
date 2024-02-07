@@ -16,7 +16,7 @@
   }
   
   .box {
-    background-color: powderblue;
+    background-color: rgb(224, 154, 221);
     color: rgb(27, 27, 27);
     border-radius: 5px;
     padding: 20px;
@@ -26,7 +26,7 @@
   }
   
   .box1 {
-    background-color: powderblue;
+    background-color: rgb(205, 104, 245);
     color: rgb(27, 27, 27);
     border-radius: 5px;
     padding: 20px;
@@ -37,7 +37,7 @@
   }
   
   .box2 {
-    background-color: powderblue;
+    background-color: rgb(212, 106, 241);
     color: rgb(27, 27, 27);
     border-radius: 5px;
     padding: 20px;
@@ -159,9 +159,7 @@
   
   @media screen and (min-width: 768px) {
   
-    /*body {
-      background: #ff0000;
-    }*/
+   
   
     .full-width-grid-con {
       display: grid;
