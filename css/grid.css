@@ -47,7 +47,7 @@
     height: 170px;
   }
   
-  /* 2. ---Mobile Library Grid Styles--- */
+  /* 2. ---Mobile Grid Styles--- */
   
   
   
@@ -92,7 +92,7 @@
     grid-column: 1 / -1;
   }
   
-  /*-- Using grid column start --*/
+  /*-- Using grid column --*/
   
   .col-start-1 {
     grid-column-start: 1;
@@ -155,7 +155,7 @@
   }
   
   
-  /* 3. ---Tablet Library Grid Styles--- */
+  /* 3. ---Tablet Grid Styles--- */
   
   @media screen and (min-width: 768px) {
   
@@ -356,7 +356,7 @@
   
   }
   
-  /* 4. ---Desktop Library Grid Styles--- */
+  /* 4. ---Desktop Grid Styles--- */
   
   @media screen and (min-width: 1200px) {
   
@@ -559,7 +559,7 @@
   
   }
   
-  /* 5. ---X-Large Desktop Library Grid Styles--- */
+  /* 5. ---X-Large Desktop Grid Styles--- */
   
   @media screen and (min-width: 1920px) {
   
