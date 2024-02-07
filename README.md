@@ -3,7 +3,7 @@
 # Salwan_Shauraya_HW2
  My intractive SVG website
 # responsive grid
- Just adding some icons and trying distinct styles to them.
+working on the grid and making site responsive
 
 ## Contributing
 
