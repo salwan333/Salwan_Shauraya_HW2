@@ -1,7 +1,6 @@
 # Salwan_Shauraya_HW2
  Web Devlopment HW
-# Salwan_Shauraya_HW2
- My intractive SVG website
+
 # responsive grid
 working on the grid and making site responsive
 
